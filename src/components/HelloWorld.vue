@@ -9,11 +9,11 @@ defineProps({
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
+    <h1 class="blue">{{ msg }}</h1>
     <h3>
       Let's go to planet scale with 
-      <a target="_blank" href="https://aws.amazon.com/">AWS</a> and
-      <a target="_blank" href="https://www.cloudflare.com/">Cloudflare</a>.
+      <a class="red" target="_blank" href="https://aws.amazon.com/">AWS</a> and
+      <a class="red" target="_blank" href="https://www.cloudflare.com/">Cloudflare</a>.
     </h3>
   </div>
 </template>

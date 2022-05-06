@@ -42,9 +42,14 @@ header {
 }
 
 a,
-.green {
+.blue {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: #2cc8c1;
+  transition: 0.4s;
+}
+.red {
+  text-decoration: none;
+  color: #f26778;
   transition: 0.4s;
 }
 

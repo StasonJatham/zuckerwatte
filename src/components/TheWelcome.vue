@@ -15,7 +15,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Blog</template>
 
     Check out our blog to read about our customer success stories.
-    <a target="_blank" href="https://vuejs.org/">And our own, of course.</a>
+    <a class="red" target="_blank" href="https://vuejs.org/">And our own, of course.</a>
   </WelcomeItem>
 
   <WelcomeItem>
