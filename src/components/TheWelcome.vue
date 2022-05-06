@@ -12,11 +12,10 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Blog</template>
 
-    Vue’s
-    <a target="_blank" href="https://vuejs.org/">official documentation</a>
-    provides you with all information you need to get started.
+    Check out our blog to read about our customer success stories.
+    <a target="_blank" href="https://vuejs.org/">And our own, of course.</a>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -24,20 +23,9 @@ import SupportIcon from './icons/IconSupport.vue'
       <ToolingIcon />
     </template>
     <template #heading>Tooling</template>
-
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite</a>. The recommended IDE
-    setup is <a href="https://code.visualstudio.com/" target="_blank">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>. If you need to test
-    your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank">Cypress</a> and
-    <a href="https://docs.cypress.io/guides/component-testing/introduction" target="_blank"
-      >Cypress Component Testing</a
-    >.
-
-    <br />
-
-    More instructions are available in <code>README.md</code>.
+    Modern tools, make you fast and save you time. In a world where time is 
+    money and much more important time is time, this will save you big on the most important 
+    resource there is. Let's build together!
   </WelcomeItem>
 
   <WelcomeItem>
@@ -46,39 +34,31 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Ecosystem</template>
 
-    Get official tools and libraries for your project:
-    <a target="_blank" href="https://pinia.vuejs.org/">Pinia</a>,
-    <a target="_blank" href="https://router.vuejs.org/">Vue Router</a>,
-    <a target="_blank" href="https://test-utils.vuejs.org/">Vue Test Utils</a>, and
-    <a target="_blank" href="https://github.com/vuejs/devtools">Vue Dev Tools</a>. If you need more
-    resources, we suggest paying
-    <a target="_blank" href="https://github.com/vuejs/awesome-vue">Awesome Vue</a>
-    a visit.
+    Most consulting companies focus on a multi-cloud startegy and this is awesome,
+    get the best from every cloud. We focus our expertise on AWS and CloudFlare in order 
+    to bring you the most sustainable value from those platforms. We'd rather support fewer 
+    providers, that way we can master them!
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <CommunityIcon />
     </template>
-    <template #heading>Community</template>
+    <template #heading>Support</template>
 
-    Got stuck? Ask your question on
-    <a target="_blank" href="https://chat.vuejs.org">Vue Land</a>, our official Discord server, or
-    <a target="_blank" href="https://stackoverflow.com/questions/tagged/vue.js">StackOverflow</a>.
-    You should also subscribe to
-    <a target="_blank" href="https://news.vuejs.org">our mailing list</a> and follow the official
-    <a target="_blank" href="https://twitter.com/vuejs">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    Got stuck? Have a question? No matter where you are in your project, be it at the beginning,
+    in the middle, at the end doing some finetuning, or maybe you just woke up this
+    morning with the next big thing on your mind: Let's make it happen &#128079;!
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Support Us</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
+    As a new company, we really need your feedback to be better and grow. Thank 
+    you in advance!
+    <a target="_blank" href="https://vuejs.org/sponsor/">Submit some feedback</a>.
   </WelcomeItem>
 </template>
